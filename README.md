@@ -3,7 +3,7 @@
 - 🦋 Estudando JavaScript
 - 🦋 Uma Padawan buscando se tornar Jedi
 
-<div>
+<div style="display: inline_block"><br>
    <img align="right" alt="Gif-Letty" height="150" style="border-radius:50px;" src="https://s10.gifyu.com/images/Design-sem-nomeb9171df5f16b5f5e.gif">
 </div>
 
