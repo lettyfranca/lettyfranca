@@ -2,7 +2,11 @@
 - 🦋 Atualmente estou buscando aprender front-end
 - 🦋 Estudando JavaScript
 - 🦋 Uma Padawan buscando se tornar Jedi
-  
+
+<div>
+   <img align="right" alt="Gif-Letty" height="150" style="border-radius:50px;" src="https://s10.gifyu.com/images/Design-sem-nomeb9171df5f16b5f5e.gif">
+</div>
+
   ##
  
 <div>
@@ -19,7 +23,6 @@
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Gif-Letty" height="150" style="border-radius:50px;" src="https://s10.gifyu.com/images/Design-sem-nomeb9171df5f16b5f5e.gif">
 </div>
   
   ##
