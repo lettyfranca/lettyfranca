@@ -1,10 +1,10 @@
 <div>
-   <img align="right" alt="Gif-Letty" height="150" style="border-radius:50px;" src="https://s10.gifyu.com/images/Design-sem-nomeb9171df5f16b5f5e.gif">
+   <img align="right" alt="img-Letty" height="180" style="border-radius:50px;" src="https://i.pinimg.com/564x/47/53/0a/47530a23e0cfaabbbb123a70ab723b2b.jpg">
 </div>
 
 ### 
 <div align="center">
-   <h2>🦋 Oiee! Meu nome é Letícia França, vulgo Letty 🦋</h2>
+   <h2>🦋 Oiee! Meu nome é Letícia França, vulgo Lê 🦋</h2>
 </div>
 
 - 🦋 Atualmente estou buscando aprender front-end
@@ -24,6 +24,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div><br>
