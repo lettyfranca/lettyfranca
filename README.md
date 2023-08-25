@@ -4,7 +4,7 @@
 
 ### 
 <div align="center">
-   <h2>🦋 Oiee! Meu nome é Letícia França, vulgo Lê 🦋</h2>
+   <h2>🦋 Oiee! Meu nome é Letícia França, vulgo Lelê 🦋</h2>
 </div>
 
 - 🦋 Atualmente estou buscando aprender back-end
