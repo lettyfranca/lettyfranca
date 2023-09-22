@@ -4,19 +4,22 @@
 
 ### 
 <div align="center">
-   <h2>🦋 Oiee! Meu nome é Letícia França, vulgo Lelê 🦋</h2>
+   <h2>🦋 Oiee! Meu nome é Letícia França 🦋</h2>
 </div>
 
-- 🦋 Atualmente estou buscando aprender back-end
-- 🦋 Uma Padawan buscando se tornar Jedi
+- Uma Padawan buscando se tornar Jedi
+- Em busca de novos conhecimentos
+- Curiosa e apaixonada por tecnologia
+- Estudante de Ciência da Computação
 
 ##
  
 <div align="center">
   <h3>🦋 GitHub Analytics 🦋</h3>
   <a href="https://github.com/lettyfranca">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lettyfranca&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettyfranca&layout=compact&langs_count=7&theme=material-palenight"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lettyfranca&theme=gotham&hide_border=false&include_all_commits=true&count_private=false"/>
+   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=lettyfranca&theme=gotham&hide_border=false"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lettyfranca&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
  
 <div style="display: inline_block" align="center"><br>
